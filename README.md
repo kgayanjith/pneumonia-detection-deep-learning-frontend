@@ -11,7 +11,7 @@ This app does not run the model itself. It only sends the uploaded image to a ba
 If you have not already cloned the main repository, start here.
 
 ```
-git clone https://github.com/kgayanjith/pneumonia-detection-deep-learning.git
+git clone https://github.com/kgayanjith/pneumonia-detection-deep-learning-frontend.git
 ```
 
 
